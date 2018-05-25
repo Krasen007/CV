@@ -1,10 +1,10 @@
 ### Personal Details	
  
-Krasen Valentinov Ivanov
+Name: Krasen Valentinov Ivanov
 Address: Varna 9000 str. Anton Frangya 25
-Phone	+359888133434
-E-mail	krasen007@gmail.com
-Birth date	09.08.1990
+Phone:	+359888133434
+E-mail:	krasen007@gmail.com
+Birth date:	09.08.1990
 
 ### Work Experience
 
@@ -16,7 +16,6 @@ IT Specialist at Flysystem LTD in Varna
 - computer equipment diagnostics and troubleshooting, 
 - cash-desk operations and invoicing.
 
-***
 
 From July 2015 to September 2015
 Input data Operator (Trainee) at Casualino JSC in Varna
