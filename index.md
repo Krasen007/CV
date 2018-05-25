@@ -8,24 +8,29 @@ Birth date:	09.08.1990
 
 ### Work Experience
 
-From November 2015 - till now  
-IT Specialist at Flysystem LTD in Varna  
+From November 2015 - till now,  
+**IT Specialist** at Flysystem LTD in Varna  
 - Trade in computers, laptops, accessories and peripherals,
 - preparing offers for private and corporate clients, 
 - advising on hardware, software and network solutions, 
 - computer equipment diagnostics and troubleshooting, 
-- cash-desk operations and invoicing.
-
+- cash-desk operations and invoicing.  
 
 From July 2015 to September 2015  
-Input data Operator (Trainee) at Casualino JSC in Varna  
-Developing a multi-platform game using the JavaScript/TypeScript language and the Phaser framework.
+**Input data Operator (Trainee)** at Casualino JSC in Varna  
+- Developing a multi-platform game using the JavaScript/TypeScript language and the Phaser framework.
 
-### Education and training	 
+### Computer skills and competences	
 
-From September 2009 to October 2014  
-Bachelor's degree in Finance and Accounting from Varna Free University Chernorizets Hrabar  
-Principal subjects/skills covered:	Informatics, Economics, Finances, Management, Accounting.
+- Game development with C#, Visual Studio, MonoDevelop, TypeScript, JavaScript, Phaser, HTML 5;
+- Version control with Git;
+- Photoshop and Paint.NET;
+- MS Office, LibreOffice, OpenOffice;
+- Excellent Windows management;
+- Intermediate in Linux and Mac.
+
+- More of my work is available in my Git profile:
+- https://github.com/Krasen007
 
 ### Additional Courses	
 
@@ -53,17 +58,11 @@ Internet Surfer
 myinternetdiploma.com  
 September 2008  
 
-### Computer skills and competences	
+### Education and training	 
 
-- Game development with C#, Visual Studio, MonoDevelop, TypeScript, JavaScript, Phaser, HTML 5;
-- Version control with Git;
-- Photoshop and Paint.NET;
-- MS Office, LibreOffice, OpenOffice;
-- Excellent Windows management;
-- Intermediate in Linux and Mac.
-
-- More of my work is available in my Git profile:
-- https://github.com/Krasen007
+From September 2009 to October 2014  
+**Bachelor's degree in Finance and Accounting** from Varna Free University Chernorizets Hrabar  
+Principal subjects/skills covered:	Informatics, Economics, Finances, Management, Accounting.
 
 ### Additional Details
 
