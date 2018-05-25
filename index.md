@@ -29,7 +29,7 @@ From July 2015 to September 2015
 - Excellent Windows management
 - Intermediate in Linux and Mac
 
-### More of my work is available in my Git profile(https://github.com/Krasen007)
+### **_[More of my work is available in my Git profile](https://github.com/Krasen007)_**
 
 ## Additional Courses	
 
