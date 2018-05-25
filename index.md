@@ -1,15 +1,69 @@
-## Welcome to GitHub Pages
+### Personal Details	
+ 
+Krasen Valentinov Ivanov
+Address: Varna 9000 str. Anton Frangya 25
+Phone	+359888133434
+E-mail	krasen007@gmail.com
+Birth date	09.08.1990
 
-You can use the [editor on GitHub](https://github.com/Krasen007/CV/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Work Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From November 2015 - till now
+IT Specialist at Flysystem LTD in Varna
+Trade in computers, laptops, accessories and peripherals, preparing offers for private and corporate clients, advising on hardware, software and network solutions, computer equipment diagnostics and troubleshooting, cash-desk operations and invoicing.
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From July 2015 to September 2015
+Input data Operator (Trainee) at Casualino JSC in Varna
+Developing a multi-platform game using the JavaScript/TypeScript language and the Phaser framework.
 
-```markdown
-Syntax highlighted code block
+### Education and training	 
+From September 2009 to October 2014
+Bachelor's degree in Finance and Accounting from Varna Free University Chernorizets Hrabar
+Principal subjects/skills covered:	Informatics, Economics, Finances, Management, Accounting.
+
+### Additional Courses	
+From noob to game developer
+Zariba Academy
+May 2018
+
+Introduction to Cyber Security
+The Open University
+January 2017
+
+Learn to Code Electronic Music Tools with Javascript
+Goldsmiths, University of London
+March 2017
+
+Begin Programming: Build Your First Mobile Game (Android)
+University of Reading
+April 2015
+
+Understanding Video Games
+Coursera
+December 2014
+
+Internet Surfer
+myinternetdiploma.com
+September 2008
+
+### Computer skills and competences	
+Game development with C#, Visual Studio, MonoDevelop, TypeScript, JavaScript, Phaser, HTML 5;
+Version control with Git;
+
+Photoshop and Paint.NET;
+MS Office, LibreOffice, OpenOffice;
+
+Excellent Windows management;
+Intermediate in Linux and Mac.
+
+More of my work is available in my Git profile:
+https://github.com/Krasen007
+
+### Additional Details
+I have a passion about Music and currently play in a band that performs original work only.
+
 
 # Header 1
 ## Header 2
@@ -26,12 +80,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Krasen007/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
