@@ -24,6 +24,9 @@ From July 2015 to September 2015
 
 - Game development with C#, Visual Studio, MonoDevelop, TypeScript, JavaScript, Phaser, HTML 5
 - Version control with Git
+- basic ASP.NET Core, MVC Core, xUnit/testing skills
+- basic SQL Server, Entity Framework, ORM skills
+
 - Photoshop and Paint.NET
 - MS Office, LibreOffice, OpenOffice
 - Excellent Windows management
