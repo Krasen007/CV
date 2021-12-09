@@ -10,19 +10,21 @@ E-mail:	krasen@protonmail.com
 Full-time
 From Mar 2021 – till now,
 
-Provided on-site hardware and software support to over 550 employees, including remote assistance via phone, email and direct chat messages.
-Resolved user issues through Zoho People ticketing system.
-Managed Windows 10 workstations and created users in an enterprise Active Directory environment.
-Created and maintained Windows 10 images for system restore using Macrium Reflect.
-Provided training to users on the Windows operating system and Microsoft Office Suite, Teams, Google Chrome, AWS Amazon Workspace.
-Documented and updated standard operating procedures for the Service Desk.
-Kept updated equipment file with all workstations and monitors.
-Managed full working operations of established computer infrastructure.
-Installed network equipment in a new office location including a server, UPS, core router switches, and cloud routers.
-Set office workstations and setup needed software for clients.
-Maintained and expanded a working network.
-Found and purchased cost-optimized equipment.
-Developed a disaster recovery plan for critical systems.
+- Provided on-site hardware and software support to over 550 employees, including remote assistance via phone, email and direct chat messages.
+- Resolved user issues through Zoho People ticketing system.
+- Managed Windows 10 workstations and created users in an enterprise Active Directory environment.
+- Created and maintained Windows 10 images for system restore using Macrium Reflect.
+- Provided training to users on the Windows operating system and Microsoft Office Suite, Teams, Google Chrome, AWS Amazon Workspace.
+- Documented and updated standard operating procedures for the Service Desk.
+- Kept updated equipment file with all workstations and monitors.
+- Managed full working operations of established computer infrastructure.
+- Installed network equipment in a new office location including a server, UPS, core router switches, and cloud routers.
+- Set office workstations and setup needed software for clients.
+- Maintained and expanded a working network.
+- Found and purchased cost-optimized equipment.
+- Developed a disaster recovery plan for critical systems.
+
+***
 
 From November 2015 to Mar 2021
 **IT Specialist** at Flysystem LTD in Varna  
@@ -32,9 +34,13 @@ From November 2015 to Mar 2021
 - Computer equipment diagnostics and troubleshooting
 - Cash-desk operations and invoicing
 
+***
+
 From July 2015 to September 2015  
 **Input data Operator (Trainee)** at Casualino JSC in Varna  
 - Developing a multi-platform game using the JavaScript/TypeScript language and the Phaser framework.
+
+
 
 ## Computer skills and competences	
 
