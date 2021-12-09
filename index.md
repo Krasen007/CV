@@ -1,14 +1,30 @@
 ### Personal Details	
  
-Name: Krasen Valentinov Ivanov  
-Address: Varna 9000 str. Anton Frangya 25  
-Phone:	+359888133434  
-E-mail:	krasen007@gmail.com  
-Birth date:	09.08.1990  
+Name: Krasen Ivanov  
+E-mail:	krasen@protonmail.com  
+
 
 ## Work Experience
 
-From November 2015 - till now,  
+**Junior System Administrator** at Pontica Solutions 
+Full-time
+From Mar 2021 – till now,
+
+Provided on-site hardware and software support to over 550 employees, including remote assistance via phone, email and direct chat messages.
+Resolved user issues through Zoho People ticketing system.
+Managed Windows 10 workstations and created users in an enterprise Active Directory environment.
+Created and maintained Windows 10 images for system restore using Macrium Reflect.
+Provided training to users on the Windows operating system and Microsoft Office Suite, Teams, Google Chrome, AWS Amazon Workspace.
+Documented and updated standard operating procedures for the Service Desk.
+Kept updated equipment file with all workstations and monitors.
+Managed full working operations of established computer infrastructure.
+Installed network equipment in a new office location including a server, UPS, core router switches, and cloud routers.
+Set office workstations and setup needed software for clients.
+Maintained and expanded a working network.
+Found and purchased cost-optimized equipment.
+Developed a disaster recovery plan for critical systems.
+
+From November 2015 to Mar 2021
 **IT Specialist** at Flysystem LTD in Varna  
 - Trade in computers, laptops, accessories and peripherals
 - Preparing offers for private and corporate clients
